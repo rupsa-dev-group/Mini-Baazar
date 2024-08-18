@@ -51,7 +51,7 @@
                 </ul>
 
                 <ul>
-                    <li> <a href="javascript:;"><i class="bx bx-right-arrow-alt"></i> Products
+                    <li> <a href="{{route('manage_product')}}"><i class="bx bx-right-arrow-alt"></i> Products
                         </a>
                     </li>
 
@@ -101,7 +101,7 @@
 
                 </ul>
 
-                
+
 
                 <ul>
                     <li> <a href="{{url('payment_gateway')}}"><i class="bx bx-right-arrow-alt"></i>Payment Gateway
@@ -109,7 +109,7 @@
                     </li>
 
                 </ul>
-               
+
             </li>
 
             <li>
@@ -192,10 +192,10 @@
             </li>
 
 
-            
 
 
-       
+
+
 
             <li>
                 <a class="has-arrow" href="javascript:;">
@@ -233,7 +233,7 @@
                     </li>
                 </ul>
 
-               
+
             </li>
 
 
@@ -285,7 +285,7 @@
             <nav class="navbar navbar-expand">
                 <div class="mobile-toggle-menu"><i class='bx bx-menu'></i>
                 </div>
-                
+
                 <div class="top-menu ms-auto">
                     <ul class="navbar-nav align-items-center">
                         <li class="nav-item mobile-search-icon">
@@ -649,7 +649,7 @@
                         </li>
                     </ul>
                 </div>
-              
+
             </nav>
         </div>
     </header>
